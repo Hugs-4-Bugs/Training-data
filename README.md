@@ -33,7 +33,16 @@ Design: UI/UX, Framer Motion, Terminal-style UI, Google Chrome-like Portfolio
 
 
 ## Work Experience
-- **JMR Infotech Pvt Ltd (Jan 2023 – Present) – Backend Developer**
+
+Startek Technology Private Limited (June 2025 – Present) – Technical Support Engineer
+Provided technical support for Acer systems and end-users across multiple environments
+Troubleshot hardware, software, and network-related issues to minimize downtime
+Handled incident management, ticket resolution, and escalation for critical issues
+Assisted clients with system configurations, updates, and application usability
+Collaborated with cross-functional teams to ensure smooth service delivery
+Tech: Windows, Linux, Networking, Remote Support Tools, Ticketing Systems
+
+- **JMR Infotech Pvt Ltd (Jan 2023 – april 2025) – Backend Developer**
 
 - **Project: Supply Chain Management System**
 - **-------------------------------------------------------------------**
@@ -73,6 +82,13 @@ Design: UI/UX, Framer Motion, Terminal-style UI, Google Chrome-like Portfolio
   - Designed custom heap in Java for shipping.
   - Built UML/ER diagrams for complex systems/databases.
 
+**Startek Technology Private Limited** (June 2025 – Present) – Technical Support Engineer
+Provided technical support for Acer systems and end-users across multiple environments
+Troubleshot hardware, software, and network-related issues to minimize downtime
+Handled incident management, ticket resolution, and escalation for critical issues
+Assisted clients with system configurations, updates, and application usability
+Collaborated with cross-functional teams to ensure smooth service delivery
+Tech: Windows, Linux, Networking, Remote Support Tools, Ticketing Systems
 
 ## Certifications
 - HackerRank Certified Software Engineer Intern
@@ -172,11 +188,13 @@ Interests: AI, Full Stack Development, Open Source, System Design, Trading, Writ
 
 
 GitHub: https://github.com/Hugs-4-Bugs
-
 LinkedIn: https://www.linkedin.com/in/prabhat-kumar-6963661a4/
-Instagram: https://www.instagram.com/_s_4_sharma/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+Instagram: https://www.instagram.com/_s_4_sharma/
 Twitter: https://x.com/kattyPrabhat
 Naukri: https://www.naukri.com/mnjuser/profile?id=&altresid
+stackoverflow: https://stackoverflow.com/users/19520484/prabhat-kumar
+hackerrank: https://www.hackerrank.com/profile/Prabhat_7250
+leetcode: https://leetcode.com/u/Hugs-2-Bugs/
 
 
 
@@ -193,6 +211,8 @@ GeeksforGeeks: https://www.geeksforgeeks.org/user/stealthy_prabhat/
 🏢 Company Ownership
 Prabhat kumar is 
 Founder & CEO of QuantumFusion Solutions
+Link of website: https://quantumfusion-solutions.vercel.app/
+Company linkedin: https://www.linkedin.com/company/106575838/admin/inbox/thread/2-OTQ5ODNjNjAtNDE0Yi00YTI3LWI5YTEtOGI5ZmQ0ZDNkMTAwXzEwMA==/ 
 
 A tech company focusing on AI, cloud computing, automation, and software innovation.
 Company Slogan: "Shaping the future for tomorrow."
@@ -862,3 +882,8 @@ He needs room to breathe, build, and become.
 
 ✨ CONCLUSION: WHY HE’S NOT LIKE OTHERS
 Prabhat isn’t looking to “win” by the world’s rules. He’s trying to create a new set of rules — one where logic and emotion coexist, where brilliance doesn’t have to shout, where legacy is earned in silence, and where people are loved not for their roles… but for their raw, unfinished truths.
+
+prabhat nick name is katty
+
+
+whatever projects and books whatever is mentioned all is done by prabhat alone. prabhat did all those projects all alone
